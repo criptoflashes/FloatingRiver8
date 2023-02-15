@@ -6,11 +6,9 @@
 ### <div align="center">Hi, I'm Marian, Full Stack Developer 👨‍💻 working remotely from Córdoba (Argentina)  🚀</div>  
   
 
-- 🔭 I am currently honing my skills while looking for a place in the industry where I can offer my knowledge and tools such as JavaScript, TypeScript, React, Redux, NodeJs, Sequelize, Express, Chakra UI among others.  
-  
+- 🔭 I’m an Argentine developer based in Córdoba. Currently I find myself working on my abilities and adding more tools to my stack, while looking for a place in the industry where I can offer my knowledge and experience.
 
-- 🌱 I am passionate about Web3 and Blockchain technology 🚀, I have a philosophy of life that is known as "Solar Punk", I believe that these technologies are there to generate a positive change in our world.
-I have experience and I am part of a DAO (Proof of Humanity), knowledge and use of DeFi protocols and as much as Dapps. Proposals linked to the field are more than welcome.  
+- 🌱 I am passionate about Web3 and Blockchain  🚀,  my philosophy of life is known as "Solar Punk", I believe that these technologies are here to generate a positive change in our world. I have experience being part of a DAO (Proof of Humanity), knowledge and use of DeFi protocols and as much as dApps. Proposals linked to the field are more than welcome.  
   
 
 - 🙌 I have some goals to achive this year such as:
