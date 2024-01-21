@@ -3,23 +3,34 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Marian, Full Stack Developer 👨‍💻 working remotely from Córdoba (Argentina)  🚀</div>  
+### <div align="center">Hi, I'm Marian, Full Stack Developer 👨‍💻  🚀</div>  
   
 
-- 🔭 I’m an Argentine developer based in Córdoba. Currently I find myself working on my abilities and adding more tools to my stack, while looking for a place in the industry where I can offer my knowledge and experience.
+- 🔭 I’m an Argentine Fullstack developer recently based in Sacramento, CA. Currently I find myself working on my abilities and adding more tools to my stack, while looking for a place in the industry where I can offer my knowledge and experience.
 
+- I am working on new projects with the purpose of learning and strengthening my knowledge in specific technologies such as Next.js, animation libraries, databases, authentication, among others.
+
+More about me:
 - 🌱 I'm passionate about Web3 and Blockchain  🚀,  my philosophy of life is known as "Solar Punk", I believe that these technologies are here to generate a positive change in our world. I have experience being part of a DAO (Proof of Humanity), knowledge and use of DeFi protocols and as much as dApps. Proposals linked to the field are more than welcome.  
   
 
 - 🙌 I have some goals to achive this year such as:
- - Working on my portfolio
-- Enhance my current projects
-- Learn Solidity
+  
+- To get a job where I can bring all my skills to it and keep learning
+- Enhance my current portfolio
 - Create new Apps / Dapps
 - To meet people with extra love for Tech and projects related to it
-- To get a job where I can bring all my skills to it  
-  
-- 🌱 I’m currently learning **Smart contracts development with Solidity**
+ 
+SKILLS
+ 
+Languages — JavaScript (ES6), TypeScript
+Styling — CSS, Sass, Chakra UI, Tailwind
+Libraries & Frameworks — React, Next.js 13, Redux, Node.js, Express, Framer motion
+Data base — Sequelize, PostgreSQL, TypeOrm, MongoDb
+Tools — Git, GitHub, Visual Studio Code, Node Package Manager (NPM)
+Web3 —  knowledge in: Blockchain,  dApps, DeFi and protocols, DAOs  
+Others —  Robotics, electronics, Arduino, Raspberry Pi, Video editing
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/criptoflashes?tab=repositories](https://github.com/criptoflashes?tab=repositories)
 
